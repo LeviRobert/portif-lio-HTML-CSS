@@ -1,4 +1,4 @@
-.progress-bar {
+.progress-bar{
     height: 20px;
     padding: 5px;
     width: 250px;
@@ -11,4 +11,46 @@
     content: "";
     width: 55%;
     background-color: #3A4042;
+}
+
+.progress-bar.-second::before{
+    content: "";
+    width: 25%;
+    background-color: #3A4042;    
+}
+
+.progress-bar.-terceiro::before{
+    content: "";
+    width: 30%;
+    background-color: #3A4042;    
+}
+
+.progress-bar.-quarto::before{
+    content: "";
+    width: 45%;
+    background-color: #3A4042;    
+}
+
+.progress-bar.-quinto::before{
+    content: "";
+    width: 35%;
+    background-color: #3A4042;    
+}
+
+.progress-bar.-sexto::before{
+    content: "";
+    width: 33%;
+    background-color: #3A4042;    
+}
+
+.progress-bar.-setimo::before{
+    content: "";
+    width: 5%;
+    background-color: #3A4042;    
+}
+
+.progress-bar.-oitavo::before{
+    content: "";
+    width: 62%;
+    background-color: #3A4042;    
 }
