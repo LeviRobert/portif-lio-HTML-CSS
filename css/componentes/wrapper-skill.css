@@ -1,0 +1,11 @@
+.wrapper-skill{
+    display: flex;
+    flex-wrap: wrap;
+    width: 1000px;
+    margin-left: 315px;
+}
+
+.wrapper-skill .skill-tec{
+    width: 500px;
+    margin-top: 14px;
+}

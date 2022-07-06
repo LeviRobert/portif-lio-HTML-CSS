@@ -1,0 +1,14 @@
+.progress-bar {
+    height: 20px;
+    padding: 5px;
+    width: 250px;
+    background-color: #fff;
+    border: 5px solid #000000;
+    display: flex; 
+}
+
+.progress-bar::before{
+    content: "";
+    width: 55%;
+    background-color: #3A4042;
+}
