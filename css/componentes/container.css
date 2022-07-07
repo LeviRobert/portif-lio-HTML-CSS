@@ -1,0 +1,13 @@
+.container{
+    margin-top: 3em;
+    margin-left: 10em;
+    display: inline-flex;
+    height: 280px;
+    width: 280px;
+    background-color: #5E7D99;
+    box-shadow: 10px 10px 0px #FFFFFF;
+}
+
+.projeto{
+    padding: 25px;
+}

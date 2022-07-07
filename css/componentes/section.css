@@ -1,7 +1,11 @@
 .section{
     background-color: #5E7D99;
     padding-top: 35px;
-    Height: 730px;
+    Height: 740px;
     border-top: 10px solid #000;
 }
 
+.section.-second{
+    background-color: #3A4042;
+    height: 521px;
+}
